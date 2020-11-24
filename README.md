@@ -1,4 +1,4 @@
-### Hi <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm Anthony
+### Hi <img src="https://github.com/Selenuix/Selenuix/blob/master/assets/hi.gif" width="25px">, I'm Anthony
 
 
 My name is Anthony, I am 19 years old and aiming to be a web developer. I am learning about programming and networking. I've been learning web development mainly, but also know Java.
