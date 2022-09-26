@@ -13,9 +13,6 @@ jobs:
           config_timezone: Europe/Paris
 
           plugin_lines: yes
-          
-          plugin_topics: yes
-          plugin_topics_mode: icons
 
           plugin_traffic: yes
 
@@ -23,3 +20,5 @@ jobs:
           plugin_habits_charts: yes
 
           plugin_followup: yes
+          
+          plugin_languages: yes
