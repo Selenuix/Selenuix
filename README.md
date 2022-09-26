@@ -8,4 +8,9 @@ My name is Anthony, I am 21 years old and aiming to be a web developer. I am lea
 
 ---
 
-![Metrics](https://github.com/Selenuix/Selenuix/blob/master/github-metrics.svg)
+<details>
+  <summary>Github Stats ⚡</summary>
+
+  ![Metrics](https://github.com/Selenuix/Selenuix/blob/master/github-metrics.svg)
+
+  </details>
