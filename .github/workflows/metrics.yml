@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */24 * * *"}]
+  schedule: [{cron: "0 0 * * 1"}]
   push: {branches: "master"}
 jobs:
   github-metrics:
